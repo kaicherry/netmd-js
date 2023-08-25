@@ -31,6 +31,7 @@ export const DevicesIds = [
     { vendorId: 0x054c, deviceId: 0x00eb, name: 'Sony MZ-NE810/NE910' },
     { vendorId: 0x054c, deviceId: 0x0101, name: 'Sony LAM' }, //They all report the same VID/PID
     { vendorId: 0x054c, deviceId: 0x0113, name: 'Aiwa AM-NX1' },
+    { vendorId: 0x054c, deviceId: 0x018b, name: 'Sony LAM-X1 NetMD' }, //The
     { vendorId: 0x054c, deviceId: 0x013f, name: 'Sony MDS-S500' },
     { vendorId: 0x054c, deviceId: 0x014c, name: 'Aiwa AM-NX9' },
     { vendorId: 0x054c, deviceId: 0x017e, name: 'Sony MZ-NH1' },
